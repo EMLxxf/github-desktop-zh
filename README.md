@@ -43,7 +43,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1 -Revert
 ## 安装（macOS）
 
 ```bash
-git clone https://github.com/<你的用户名>/github-desktop-zh.git
+git clone https://github.com/EMLxxf/github-desktop-zh.git
 cd github-desktop-zh
 bash install-macos.sh
 ```
