@@ -1,5 +1,12 @@
 # GitHub Desktop 中文补丁（github-desktop-zh）
 
+> GitHub Desktop 非官方中文补丁 · 一键安装、可还原，升级后重打即可
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-3.6.10-24292f.svg)](https://desktop.github.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey.svg)](#安装windows)
+[![i18n](https://img.shields.io/badge/i18n-zh--CN-d73a49.svg)](#覆盖范围)
+
 给 [GitHub Desktop](https://desktop.github.com/) 做界面汉化的非官方补丁。
 
 官方至今没有多语言支持（3MB 的 `renderer.js` 里连 `i18n` 这个词都没有），

@@ -1,5 +1,11 @@
 # github-desktop-zh
 
+> Unofficial Chinese localization patch for GitHub Desktop · one-click install, fully revertible
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-3.6.10-24292f.svg)](https://desktop.github.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey.svg)](#install-windows)
+
 An **unofficial** Chinese (Simplified) language patch for [GitHub Desktop](https://desktop.github.com/).
 
 GitHub Desktop ships with no internationalization at all — there is not a single
